@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mayan Moon</string>
+    <string-array name = "about">
+        <item>One</item>
+        <item>One</item>
+        <item>One</item>
+    </string-array>
+
+</resources>
